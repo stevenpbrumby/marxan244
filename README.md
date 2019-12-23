@@ -8,7 +8,16 @@ example input files from [http://marxanconnect.ca/tutorial.html]
 
 stored here: gs://ngs-gvl/prioritization/CSD_landscape/
 
-## Authors
+#### build and test
+
+```
+make 
+cd test
+ln -s input_no_connect.dat input.dat
+../marxan244
+```
+
+# Authors
 
 Marxan v 2.44 - Marine Reserve Design via Annealing
 
