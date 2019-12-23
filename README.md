@@ -1,8 +1,10 @@
 # Marxan version 2.4.4 C source code
 
-### steven.p.brumby@gmail.com 2019
+#### this fork: steven.p.brumby@gmail.com 2019
 
-### adding Makefile and test data 
+#### adding Makefile and test data 
+
+## Authors
 
 Marxan v 2.44 - Marine Reserve Design via Annealing
 
