@@ -4,6 +4,10 @@
 
 #### adding Makefile and test data 
 
+example input files from [http://marxanconnect.ca/tutorial.html]
+
+stored here: gs://ngs-gvl/prioritization/CSD_landscape/
+
 ## Authors
 
 Marxan v 2.44 - Marine Reserve Design via Annealing
