@@ -458,6 +458,7 @@ void LoadSparseMatrix_sporder(int *iSMSize, struct spusporder *SM[], int puno, i
 void DumpPU_richness_offset(int puno, struct spustuff PU[],struct sfname fnames);
 void DumpBinarySearchArrays(char *sName,struct sfname fnames, int puno, int spno, struct binsearch PULookup[],
                             struct binsearch SPLookup[]);
+int DumpAsymmetricConnectionFile(int puno,struct sconnections connections[],struct spustuff pu[],struct sfname fnames);
 
 void PrepareBinarySearchArrays(int puno, int spno, struct spustuff PU[], typesp spec[],
                                struct binsearch *PULookup[], struct binsearch *SPLookup[]);
